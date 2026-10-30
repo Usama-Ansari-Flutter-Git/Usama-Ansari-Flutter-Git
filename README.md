@@ -31,9 +31,8 @@ from the first screen to the App Store and Google Play release.
 
 | App | What it does | Download |
 |:--|:--|:--|
-| **Nobese** | AI calorie counter and weight-loss companion | [App Store](https://apps.apple.com/pk/app/nobese-calorie-weight-loss/id6743581428) · [Google Play](https://play.google.com/store/apps/details?id=com.nobese.ahc) |
 | **ControlHF** | Heart failure self-management with caregiver accounts | [App Store](https://apps.apple.com/pk/app/controlhf-cardiac-companion/id6762505318) · [Google Play](https://play.google.com/store/apps/details?id=com.ahc.hf) |
-| **Ereint** | AI medical scribe that turns patient visits into clinical notes | [App Store](https://apps.apple.com/pk/app/ereint/id6746925969) · [Google Play](https://play.google.com/store/apps/details?id=com.ahc.ereint.note) |
+| **Nobese** | AI calorie counter and weight-loss companion | [App Store](https://apps.apple.com/pk/app/nobese-calorie-weight-loss/id6743581428) · [Google Play](https://play.google.com/store/apps/details?id=com.nobese.ahc) |
 | **Synopsis Plus** | Book summaries, with Apple CarPlay support | [App Store](https://apps.apple.com/us/app/synopsis-plus-book-summaries/id6737144757) · [Google Play](https://play.google.com/store/apps/details?id=com.synopsisplus.ltd) |
 
 ---
