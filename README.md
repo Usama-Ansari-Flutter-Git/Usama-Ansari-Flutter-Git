@@ -52,7 +52,7 @@ from the first screen to the App Store and Google Play release.
 
 | | |
 |:--|:--|
-| **Mobile** | Flutter, Dart, React Native, Swift, Kotlin, platform channels, Apple CarPlay |
+| **Mobile** | Flutter, Dart, React Native, Swift, Kotlin |
 | **Architecture** | Clean Architecture, Riverpod, BLoC, offline-first with Drift |
 | **Backend** | NestJS, Node.js, TypeScript, PHP, MySQL, PostgreSQL, Firebase |
 | **Payments** | RevenueCat, in-app purchases, Stripe |
