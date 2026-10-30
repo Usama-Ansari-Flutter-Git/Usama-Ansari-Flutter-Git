@@ -32,10 +32,13 @@ from the first screen to the App Store and Google Play release.
 | App | What it does | Download |
 |:--|:--|:--|
 | **ControlHF** | Heart failure self-management with caregiver accounts | [App Store](https://apps.apple.com/pk/app/controlhf-cardiac-companion/id6762505318) · [Google Play](https://play.google.com/store/apps/details?id=com.ahc.hf) |
+| **Synopsis Plus** | Book summaries, with Apple CarPlay support | [App Store](https://apps.apple.com/us/app/synopsis-plus-book-summaries/id6737144757) · [Google Play](https://play.google.com/store/apps/details?id=com.synopsisplus.ltd) |
 | **Nobese** | AI calorie counter and weight-loss companion | [App Store](https://apps.apple.com/pk/app/nobese-calorie-weight-loss/id6743581428) · [Google Play](https://play.google.com/store/apps/details?id=com.nobese.ahc) |
 | **Tranquely** | Sleep, meditation and anxiety-relief companion | [App Store](https://apps.apple.com/us/app/tranquely-sleep-meditation/id6737411122) · [Google Play](https://play.google.com/store/apps/details?id=com.tranquely.ahc) |
 | **Peace** | Meditation and sleep app with CBT techniques and soothing sleep sounds | [App Store](https://apps.apple.com/us/app/peace-meditation-sleep-app/id6738571861) · [Google Play](https://play.google.com/store/apps/details?id=com.peace.ahc) |
-| **Synopsis Plus** | Book summaries, with Apple CarPlay support | [App Store](https://apps.apple.com/us/app/synopsis-plus-book-summaries/id6737144757) · [Google Play](https://play.google.com/store/apps/details?id=com.synopsisplus.ltd) |
+| **Weight Loser** | Food, hydration, fitness and weight-loss tracker | [App Store](https://apps.apple.com/us/app/weight-loser-fitness-tracker/id6479640660) · [Google Play](https://play.google.com/store/apps/details?id=com.weightloser.app) |
+| **Better Mood** | Guided meditation and mindfulness for mood and better sleep | [App Store](https://apps.apple.com/us/app/better-mood-relax-sleep/id6581483848) · [Google Play](https://play.google.com/store/apps/details?id=com.bettermood.ach) |
+| **Diastolix** | Blood pressure tracker for everyday heart health | [App Store](https://apps.apple.com/us/app/diastolix-blood-pressure-app/id6738598836) |
 
 ---
 
