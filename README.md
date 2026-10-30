@@ -3,7 +3,7 @@
 # Usama Ansari
 
 <a href="https://github.com/Usama-Ansari-Flutter-Git">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=02569B&center=true&vCenter=true&width=520&lines=Flutter+Developer;Building+health+%26+AI+apps+for+iOS+and+Android;From+pixel-perfect+UI+to+store+release" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=02569B&center=true&vCenter=true&width=680&lines=Flutter+Developer;Building+health+%26+AI+apps+for+iOS+and+Android;From+pixel-perfect+UI+to+store+release" alt="Typing intro" />
 </a>
 
 <p>
